@@ -5,30 +5,6 @@
 
 Financial CPA looking to leverage years of professional experience and knowledge to break into the world of computer programming.
 
-## Experience
-
-## Experience
-
-- **Senior Financial Analyst**, CAI International
-  - Responsible for $1.5bn debt reporting, Excel, VBA.
-  - Produced cash flow analysis, financial forecasts.
-
-- **Assurance Associate**, Ernst and Young
-  - Conducted financial audits in banking and fin-tech.
-
-## Certification
-
-- Certified Public Accountant (CPA)  
-  California Board of Accountancy - Issued in 2018
-
-## Education
-
-- **Economics and Accounting**  
-  University of California at Santa Barbara  
-  Graduated in June 2016 with Honors
-  Dean's List for multiple quarters
-  GPA: 3.62
-
 ## Find me online
 
 - [LinkedIn](www.linkedin.com/in/tyler-meyers-cpa)
@@ -36,9 +12,9 @@ Financial CPA looking to leverage years of professional experience and knowledge
 
 ## Programming Projects
 
-### CS50 Course Project Portfolio
+### Chess Website
+- This project is a full-stack chess website created as the final project for CS50w. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature. The project demonstrates the author's growth as a full-stack developer, showcasing adaptability and problem-solving skills throughout its development. To see a demonstration of the project, visit this [link](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website).
 
-- Over 50 problem sets, labs, and projects related to the completion of several courses offered by Harvard's computer science department. Topics span various languages, frameworks, and libraries. Courses include intro to computer science, python, web development, and artificial intelligence.
 
 ### NFL Radar Charts
 - Group collaboration project to design and implement a full-stack website that displays NFL stats for all NFL teams from seasons 2002 through 2022. Contributed to the back-end utilizing the pandas library.
