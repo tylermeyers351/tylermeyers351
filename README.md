@@ -1,4 +1,3 @@
-# Tyler Meyers
 #### Email: tylermeyers351@gmail.com
 
 ## Summary
@@ -19,8 +18,3 @@ Financial CPA looking to leverage years of professional experience and knowledge
 ## Find me online
 - [LinkedIn](www.linkedin.com/in/tyler-meyers-cpa)
 - [GitHub](www.github.com/tylermeyers351)
-
-## Interests
-- Analyzing games of chess
-- Reading the Economist
-- Lofi hip hop radio
