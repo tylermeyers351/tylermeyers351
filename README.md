@@ -1,6 +1,6 @@
-#### Email: tylermeyers351@gmail.com
-
-Financial CPA looking to leverage years of professional experience and knowledge to break into the world of computer programming.
+## Summary
+Email: tylermeyers351@gmail.com  
+Financial CPA looking to leverage years of professional experience and knowledge to break into the world of computer programming. [LinkedIn](www.linkedin.com/in/tyler-meyers-cpa)
 
 ## Top Projects
 
@@ -12,5 +12,3 @@ Financial CPA looking to leverage years of professional experience and knowledge
 
 ### Zombie Invasion 2nite
 - Employed using the Love 2d framework (Lua), created a demo of a game I envisioned could be built into a full-fledged title. Core mechanics are crisp and built to be expanded on. Check it out [here](https://github.com/tylermeyers351/CS50-Final-Project-Love2d).  
-
-[LinkedIn](www.linkedin.com/in/tyler-meyers-cpa)
