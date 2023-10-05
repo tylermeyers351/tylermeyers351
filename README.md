@@ -1,7 +1,9 @@
 ## Summary
-Email: tylermeyers351@gmail.com  
+Financial CPA looking to leverage years of professional experience and knowledge to break into the world of computer programming. 
+Email: tylermeyers351@gmail.com
+[LinkedIn](www.linkedin.com/in/tyler-meyers-cpa)
 
-Financial CPA looking to leverage years of professional experience and knowledge to break into the world of computer programming. [LinkedIn](www.linkedin.com/in/tyler-meyers-cpa)
+
 
 ## Top Projects
 
