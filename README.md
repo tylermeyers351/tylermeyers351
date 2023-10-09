@@ -8,7 +8,7 @@ LinkedIn: [Click here](www.linkedin.com/in/tyler-meyers-cpa)
 ## Top Projects
 
 ### Chess Website
-- This project is a full-stack chess website created as the final project for CS50w. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature. The project demonstrates the author's growth as a full-stack developer, showcasing adaptability and problem-solving skills throughout its development. Check it out [here](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website).
+- Full-stack chess website created as the final project for Harvard's CS50 web development course. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature. Check it out [here](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website).
 
 ### NFL Radar Charts
 - Group collaboration project to design and implement a full-stack website that displays NFL stats for all NFL teams from seasons 2002 through 2022. Contributed to the back-end utilizing the pandas library. Check it out [here](https://github.com/tylermeyers351/NFL-Radar-Charts).  
