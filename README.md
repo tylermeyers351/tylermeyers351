@@ -21,6 +21,7 @@
 
 - Django
 - React
+- Bootstrap
 - Pandas
 - Scikit-learn
 - Matplotlib and Seaborn
