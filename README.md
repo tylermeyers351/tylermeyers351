@@ -7,7 +7,7 @@
 - Group collaboration project to design and implement a full-stack website that displays NFL stats for all NFL teams from seasons 2002 through 2022. Contributed to the back-end utilizing the pandas library. Check it out [here](https://github.com/tylermeyers351/NFL-Radar-Charts).
 
 #### Workout Notes App
-- Simple Progressive Web App (PWA) designed to be used on my phone (or desktop), wherever I am. It leverages Firebase as its server and backend infrastructure for various functionalities. Firebase is a cloud-based platform that provides services such as a real-time database, authentication, and more. Check it out [here](https://github.com/tylermeyers351/Workout-Notes-App).  
+- Simple Progressive Web App (PWA) designed to be used on my phone (or desktop), wherever I am. It features dynamic HTML and leverages Firebase as its server and backend infrastructure for various functionalities. Check it out [here](https://github.com/tylermeyers351/Workout-Notes-App).  
 
 #### Zombie Invasion 2nite
 - Employed using the Love 2d framework (Lua), created a demo of a game I envisioned could be built into a full-fledged title. Core mechanics are crisp and built to be expanded on. Check it out [here](https://github.com/tylermeyers351/CS50-Final-Project-Love2d).
