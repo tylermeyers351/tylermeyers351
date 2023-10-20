@@ -36,9 +36,9 @@
 
 You can connect with me on various social media platforms:
 
-- **LinkedIn**: [Your LinkedIn Profile](in/tyler-meyers-cpa-0a3913123)
-- **Hashnode**: [Your Hashnode Profile](https://hashnode.com/@yourusername)
-- **YouTube**: [Your YouTube Channel](https://tylermeyers351.hashnode.dev/)
+- **LinkedIn**: [in/tyler-meyers-cpa-0a3913123](in/tyler-meyers-cpa-0a3913123)
+- **Hashnode**: [https://tylermeyers351.hashnode.dev/](https://tylermeyers351.hashnode.dev/)
+- **YouTube**: [channel/UCC0GU4l4EvXBIPPjMAMcxJw](channel/UCC0GU4l4EvXBIPPjMAMcxJw)
 
 Feel free to reach out, connect, or subscribe to stay updated on my professional journey and content.
 
