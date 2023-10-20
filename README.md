@@ -32,3 +32,14 @@
 - Chessboard.js
 - Love 2d
 
+## Contact Me
+
+You can connect with me on various social media platforms:
+
+- **LinkedIn**: [Your LinkedIn Profile](in/tyler-meyers-cpa-0a3913123)
+- **Hashnode**: [Your Hashnode Profile](https://hashnode.com/@yourusername)
+- **YouTube**: [Your YouTube Channel](https://tylermeyers351.hashnode.dev/)
+
+Feel free to reach out, connect, or subscribe to stay updated on my professional journey and content.
+
+
