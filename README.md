@@ -20,7 +20,7 @@
 - JavaScript
 - Lua
 
-#### Frameworks and Technologies
+#### Top Frameworks and Technologies
 
 - Django
 - React
@@ -30,9 +30,7 @@
 - Matplotlib and Seaborn
 - NLTK (Natural Language Toolkit)
 - TensorFlow
-- NumPy
-- Chess.js
-- Chessboard.js
+- Chess.js & Chessboard.js
 - Love 2d
 
 ## Contact Me
