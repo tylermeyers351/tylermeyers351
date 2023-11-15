@@ -39,6 +39,7 @@ You can connect with me on various social media platforms:
 
 - **LinkedIn**: https://www.linkedin.com/in/tyler-meyers-cpa/
 - **YouTube**: https://www.youtube.com/channel/UCC0GU4l4EvXBIPPjMAMcxJw
+- **Gmail**: tylermeyers351@gmail.com
 
 Feel free to reach out, connect, or subscribe to stay updated on my professional journey and content.
 
