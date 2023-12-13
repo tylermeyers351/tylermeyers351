@@ -1,7 +1,10 @@
 ## Top Projects
 
 #### [Chess Website](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)
-- Full-stack chess website created as the final project for Harvard's CS50 web development course. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature.  
+- Full-stack chess website (created with Django) created as the final project for Harvard's CS50 web development course. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature.
+
+#### [Vacation Planning Website](https://github.com/tylermeyers351/Project-Tango-Yankee)
+Developed by Tyler Meyers and Dominic Santini, Tycation.com is a React project completed in December 2023. This collaborative effort showcases their skills in React, featuring location selection, notes generation, itinerary creation, and integration with Yelp and Google Maps APIs.  
 
 #### [NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)
 - Group collaboration project to design and implement a full-stack website that displays NFL stats for all NFL teams from seasons 2002 through 2022. Contributed to the back-end utilizing the pandas library.  
