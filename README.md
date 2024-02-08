@@ -36,6 +36,16 @@
 - Chess.js & Chessboard.js
 - Love 2d
 
+#### Classes Taken (Chronological Order)
+
+- CS50P - Introductory python course covering basic programming principals.
+- CS50x - Introductory course offered by Harvard University, covering the fundamentals of computer science and programming.
+- Learn Assembly Language by Making Games for the Atari 2600 -  Hands-on instruction in programming using assembly language, with a specific focus on creating games for the Atari 2600 gaming console, offering a practical and engaging approach to learning low-level programming concepts
+- Learn Python with Fantasy Football
+- CS50AI -  Course extending the CS50 curriculum to explore the fundamentals of artificial intelligence and machine learning.
+- CS50W -  Course covers various aspects of building dynamic and interactive websites, including front-end and back-end development, as well as aspects of design and user experience.
+- CS50G -  Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.
+
 ## Contact Me
 
 You can connect with me on various social media platforms:
