@@ -26,6 +26,7 @@
 #### Top Frameworks and Libraries
 
 - Django
+- Flask
 - React
 - Bootstrap
 - Pandas
