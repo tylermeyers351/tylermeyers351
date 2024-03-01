@@ -40,13 +40,13 @@
 ## Classes Taken  
 **CS50G** - Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.  
 
-**Learn Python with Fantasy Football** - Covers Python, Pandas (Python's main data analysis library), SQL, web scraping, public APIs, data visualization, summary stats and modeling, all applied to fantasy football.  
-
 **Intro to React** - Course offered from Scrimba that covers foundational knowledge of React, covering concepts such as components, state, props, and the React lifecycle through hands-on coding exercises and practical examples.  
 
 **CS50W** - Course covers various aspects of building dynamic and interactive websites, including front-end and back-end development, as well as aspects of design and user experience. 
 
-**CS50AI** - Course extending the CS50 curriculum to explore the fundamentals of artificial intelligence and machine learning.  
+**CS50AI** - Course extending the CS50 curriculum to explore the fundamentals of artificial intelligence and machine learning. 
+
+**Learn Python with Fantasy Football** - Covers Python, Pandas (Python's main data analysis library), SQL, web scraping, public APIs, data visualization, summary stats and modeling, all applied to fantasy football.  
 
 **Learn Assembly Language for the Atari 2600** - Hands-on instruction in programming using assembly language, offering a practical and engaging approach to learning low-level programming concepts.  
 
