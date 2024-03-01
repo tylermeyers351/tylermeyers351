@@ -37,7 +37,7 @@
 - Chess.js & Chessboard.js
 - Love 2d
 
-#### Classes Taken (Chronological Order)
+## Classes Taken  
 **CS50G** - Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.  
 
 **Learn Python with Fantasy Football** - Covers Python, Pandas (Python's main data analysis library), SQL, web scraping, public APIs, data visualization, summary stats and modeling, all applied to fantasy football.  
