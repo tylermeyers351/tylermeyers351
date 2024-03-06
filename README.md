@@ -22,6 +22,7 @@
 - Python
 - JavaScript
 - Lua
+- C#
 
 #### Top Frameworks and Libraries
 
@@ -36,6 +37,7 @@
 - TensorFlow
 - Chess.js & Chessboard.js
 - Love 2d
+- Unity game engine
 
 ## Classes Taken  
 **CS50G** - Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.  
