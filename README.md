@@ -23,6 +23,7 @@
 - JavaScript
 - Lua
 - C#
+- R
 
 #### Top Frameworks and Libraries
 
@@ -40,6 +41,8 @@
 - Unity game engine
 
 ## Classes Taken  
+**CS50R** - An introduction to statistical computing and graphics with R.
+
 **CS50G** - Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.  
 
 **Intro to React** - Course offered from Scrimba that covers foundational knowledge of React, covering concepts such as components, state, props, and the React lifecycle through hands-on coding exercises and practical examples.  
