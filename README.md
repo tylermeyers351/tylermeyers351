@@ -74,6 +74,7 @@ Feel free to reach out, connect, or subscribe to stay updated on my professional
 ## What's Next
 
 Possible future projects:
-- **CS50x**: Want to redo all of the projects in C for CS50x to gain a deeper understanding of system-level programming, enhance performance and efficiency, and strengthen my problem-solving skills. 
+- **C**: Want to redo all of the projects in C for CS50x to gain a deeper understanding of system-level programming, enhance performance and efficiency, and strengthen my problem-solving skills. 
+- **C++**: Learn C++ for the same reasons as learning C! To build a good computer programming foundation.
 - **Build a game with Unity Game Engine**: Build a 3d zombies game and explore game development. 
 
