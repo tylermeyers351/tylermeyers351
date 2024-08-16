@@ -77,4 +77,4 @@ Possible future projects:
 - **C**: Want to redo all of the projects in C for CS50x to gain a deeper understanding of system-level programming, enhance performance and efficiency, and strengthen my problem-solving skills. 
 - **C++**: Learn C++ for the same reasons as learning C! To build a good computer programming foundation.
 - **Build a game with Unity Game Engine**: Build a 3d zombies game and explore game development. 
-
+- **Javascript library D3** For interactive graphics.
