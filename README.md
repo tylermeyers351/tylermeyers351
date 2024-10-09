@@ -1,5 +1,8 @@
 ## Top Projects
 
+#### [Investigations Database with SQL](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)
+- Simplified Police Investigations Database (created using SQLite) designed for tracking crime investigations. The database schema emphasizes relationship tables to manage key entities like crimes, suspects, detectives, witnesses, and arrests. The project includes features for organizing case details efficiently, with a focus on simplifying data relationships and reducing redundancy. Visualized with Mermaid diagrams to highlight SQL table connections and relationships.
+
 #### [Statistical Analysis with R](https://github.com/tylermeyers351/CS50R-Final-Boats)
 - Boating accident analysis project created for CS50's introduction to programming with R. The project uses data from the Boating Accident Report Database (BARD) to analyze trends in boating accidents, injuries, and fatalities. Key components include custom R functions for calculating statistics, unit testing, and visualizations that highlight trends such as fatalities by water condition, day, event type, and cause. The project emphasizes the risks associated with alcohol consumption while boating.
 
@@ -20,13 +23,14 @@
 
 ## Skills
 
-#### Top Programming Languages
+#### Top Languages
 
 - Python
 - JavaScript
 - Lua
 - C#
 - R
+- SQL
 
 #### Top Frameworks and Libraries
 
@@ -42,8 +46,11 @@
 - Chess.js & Chessboard.js
 - Love 2d
 - Unity game engine
+- Mermaid Diagrams
 
-## Classes Taken  
+## Classes Taken (In order of class taken) 
+**CS50SQL** - An introduction databases with SQL.
+
 **CS50R** - An introduction to statistical computing and graphics with R.
 
 **CS50G** - Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.  
