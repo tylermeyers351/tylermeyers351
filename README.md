@@ -48,7 +48,7 @@
 - Unity game engine
 - Mermaid Diagrams
 
-## Classes Taken (In order of class taken) 
+## Classes Taken
 **CS50SQL** - An introduction databases with SQL.
 
 **CS50R** - An introduction to statistical computing and graphics with R.
