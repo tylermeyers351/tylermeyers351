@@ -1,10 +1,10 @@
 ## Top Projects
 
 #### [Investigations Database with SQL](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)
-- Simplified Police Investigations Database (created using SQLite) designed for tracking crime investigations. The database schema emphasizes relationship tables to manage key entities like crimes, suspects, detectives, witnesses, and arrests. The project includes features for organizing case details efficiently, with a focus on simplifying data relationships and reducing redundancy. Visualized with Mermaid diagrams to highlight SQL table connections and relationships.
+- Simplified Police Investigations Database (created using SQLite) designed for tracking crime investigations. The database schema emphasizes relationship tables to manage key entities like crimes, suspects, detectives, witnesses, and arrests. The project includes features for organizing case details efficiently, with a focus on simplifying data relationships and reducing redundancy. 
 
 #### [Statistical Analysis with R](https://github.com/tylermeyers351/CS50R-Final-Boats)
-- Boating accident analysis project created for CS50's introduction to programming with R. The project uses data from the Boating Accident Report Database (BARD) to analyze trends in boating accidents, injuries, and fatalities. Key components include custom R functions for calculating statistics, unit testing, and visualizations that highlight trends such as fatalities by water condition, day, event type, and cause. The project emphasizes the risks associated with alcohol consumption while boating.
+- Boating accident analysis project created for CS50's introduction to programming with R. The project uses data from the Boating Accident Report Database (BARD) to analyze trends in boating accidents, injuries, and fatalities. Key components include custom R functions for calculating statistics, unit testing, and visualizations that highlight trends such as fatalities by water condition, day, event type, and cause.
 
 #### [Chess Website](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)
 - Full-stack chess website (created with Django) created as the final project for Harvard's CS50 web development course. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature.
