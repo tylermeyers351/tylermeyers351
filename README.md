@@ -26,6 +26,7 @@
 #### Top Languages
 
 - Python
+- C
 - JavaScript
 - Lua
 - C#
