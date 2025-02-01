@@ -21,33 +21,20 @@
 #### [Zombie Invasion 2nite](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)
 - Employed using the Love 2d framework (Lua), created a demo of a game I envisioned could be built into a full-fledged title. Core mechanics are crisp and built to be expanded on.  
 
-## Skills
+### Skills
 
-#### Top Languages
+#### **Top Languages**  
+- **Python** | **C** | **JavaScript** | **Lua** | **C#** | **R** | **SQL**
 
-- Python
-- C
-- JavaScript
-- Lua
-- C#
-- R
-- SQL
+#### **Web Development**  
+- **Django** | **Flask** | **React**
 
-#### Top Frameworks and Libraries
+#### **Data Science & Machine Learning**  
+- **Pandas** | **Scikit-learn** | **Matplotlib & Seaborn** | **TensorFlow** | **NLTK (Natural Language Toolkit)**
 
-- Django
-- Flask
-- React
-- Bootstrap
-- Pandas
-- Scikit-learn
-- Matplotlib and Seaborn
-- NLTK (Natural Language Toolkit)
-- TensorFlow
-- Chess.js & Chessboard.js
-- Love 2d
-- Unity game engine
-- Mermaid Diagrams
+#### **Game Development**  
+- **Unity** | **Love 2D**
+
 
 ## Classes Taken
 **CS50SQL** - An introduction databases with SQL.
