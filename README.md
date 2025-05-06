@@ -61,11 +61,3 @@ You can connect with me on various social media platforms:
 - **YouTube**: [My Channel](https://www.youtube.com/channel/UCC0GU4l4EvXBIPPjMAMcxJw)  
 
 Feel free to reach out, connect, or subscribe to stay updated on my professional journey and content.
-
-## What's Next
-
-Possible future projects:
-- **C**: I'd like to add several C projects to my portfolio. One project would be rewriting my Raycasting algorithm in C (it was originally written in Python).
-- **C++**: Learn C++ for the same reasons as learning C! To build a good computer programming foundation.
-- **Build a game with Unity Game Engine**: Build a 3d zombies game and explore game development. (And learn C# along the way).
-- **Javascript library D3** For interactive graphics.
