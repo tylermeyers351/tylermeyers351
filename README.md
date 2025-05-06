@@ -1,25 +1,19 @@
 ## Top Projects
 
-#### [Investigations Database with SQL](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)
-- Simplified Police Investigations Database (created using SQLite) designed for tracking crime investigations. The database schema emphasizes relationship tables to manage key entities like crimes, suspects, detectives, witnesses, and arrests. The project includes features for organizing case details efficiently, with a focus on simplifying data relationships and reducing redundancy. 
+- **[Chess Website (Django)](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)** – Full-stack chess site with AI, forums, authentication, and leaderboards.
 
-#### [Statistical Analysis with R](https://github.com/tylermeyers351/CS50R-Final-Boats)
-- Boating accident analysis project created for CS50's introduction to programming with R. The project uses data from the Boating Accident Report Database (BARD) to analyze trends in boating accidents, injuries, and fatalities. Key components include custom R functions for calculating statistics, unit testing, and visualizations that highlight trends such as fatalities by water condition, day, event type, and cause.
+- **[Tycation (React)](https://github.com/tylermeyers351/Project-Tango-Yankee)** – Collaborative trip planner using Yelp and Google Maps APIs.
 
-#### [Chess Website](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)
-- Full-stack chess website (created with Django) created as the final project for Harvard's CS50 web development course. It encompasses various components, including a responsive design, interactive chessboard with AI gameplay, user authentication, forums, news integration, and an evolving leaderboards feature.
+- **[NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)** – Full-stack NFL stats visualizer; contributed back-end work using pandas.
 
-#### [Vacation Planning Website](https://github.com/tylermeyers351/Project-Tango-Yankee)
-- Developed by Tyler Meyers and Dominic Santini, Tycation.com is a collaborative React project that showcases location selection, notes generation, itinerary creation, and integration with Yelp Fusion and Google Maps APIs.  
+- **[Workout Notes App](https://github.com/tylermeyers351/Workout-Notes-App)** – Firebase-backed PWA for logging workouts across devices.
 
-#### [NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)
-- Group collaboration project to design and implement a full-stack website that displays NFL stats for all NFL teams from seasons 2002 through 2022. Contributed to the back-end utilizing the pandas library.  
+- **[Investigations Database (SQL)](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)** – Crime investigation tracker built in SQLite, focusing on efficient relational design.
 
-#### [Workout Notes App](https://github.com/tylermeyers351/Workout-Notes-App)
-- Simple Progressive Web App (PWA) designed to be used on my phone (or desktop), wherever I am. It features dynamic HTML and leverages Firebase as its server and backend infrastructure for various functionalities.  
+- **[Boating Accident Stats (R)](https://github.com/tylermeyers351/CS50R-Final-Boats)** – Statistical analysis of boating accident data with custom R functions, testing, and visualizations.
 
-#### [Zombie Invasion 2nite](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)
-- Employed using the Love 2d framework (Lua), created a demo of a game I envisioned could be built into a full-fledged title. Core mechanics are crisp and built to be expanded on.  
+- **[Zombie Invasion 2nite (Love2D)](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)** – Lua game prototype with core mechanics built for expansion.
+
 
 ### Skills
 
