@@ -1,18 +1,18 @@
 ## Top Projects
 
-- **[Chess Website (Django)](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)** – Full-stack chess site with AI, forums, authentication, and leaderboards.
+**[Chess Website (Django)](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)** – Full-stack chess site with AI, forums, authentication, and leaderboards.
 
-- **[Tycation (React)](https://github.com/tylermeyers351/Project-Tango-Yankee)** – Collaborative trip planner using Yelp and Google Maps APIs.
+**[Tycation (React)](https://github.com/tylermeyers351/Project-Tango-Yankee)** – Collaborative trip planner using Yelp and Google Maps APIs.
 
-- **[NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)** – Full-stack NFL stats visualizer; contributed back-end work using pandas.
+**[NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)** – Full-stack NFL stats visualizer; contributed back-end work using pandas.
 
-- **[Workout Notes App](https://github.com/tylermeyers351/Workout-Notes-App)** – Firebase-backed PWA for logging workouts across devices.
+**[Workout Notes App](https://github.com/tylermeyers351/Workout-Notes-App)** – Firebase-backed PWA for logging workouts across devices.
 
-- **[Investigations Database (SQL)](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)** – Crime investigation tracker built in SQLite, focusing on efficient relational design.
+**[Investigations Database (SQL)](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)** – Crime investigation tracker built in SQLite, focusing on efficient relational design.
 
-- **[Boating Accident Stats (R)](https://github.com/tylermeyers351/CS50R-Final-Boats)** – Statistical analysis of boating accident data with custom R functions, testing, and visualizations.
+**[Boating Accident Stats (R)](https://github.com/tylermeyers351/CS50R-Final-Boats)** – Statistical analysis of boating accident data with custom R functions, testing, and visualizations.
 
-- **[Zombie Invasion 2nite (Love2D)](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)** – Lua game prototype with core mechanics built for expansion.
+**[Zombie Invasion 2nite (Love2D)](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)** – Lua game prototype with core mechanics built for expansion.
 
 
 ### Skills
