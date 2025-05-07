@@ -31,26 +31,25 @@
 
 
 ## Classes Taken
-**CS50SQL** - An introduction databases with SQL.
+**CS50SQL** – Introduction to databases and SQL.  
 
-**CS50R** - An introduction to statistical computing and graphics with R.
+**CS50R** – Statistical computing and graphics with R.  
 
-**CS50G** - Harvard's game development track within the CS50 course, offering foundational knowledge in game design and programming.  
+**CS50G** – Game development fundamentals within the CS50 curriculum.  
 
-**Intro to React** - Course offered from Scrimba that covers foundational knowledge of React, covering concepts such as components, state, props, and the React lifecycle through hands-on coding exercises and practical examples.  
+**Intro to React** – Core React concepts: components, state, props, and lifecycle through hands-on projects.  
 
-**CS50W** - Course covers various aspects of building dynamic and interactive websites, including front-end and back-end development, as well as aspects of design and user experience. 
+**CS50W** – Building dynamic, interactive websites with front-end/back-end and design principles.  
 
-**CS50AI** - Course extending the CS50 curriculum to explore the fundamentals of artificial intelligence and machine learning. 
+**CS50AI** – Fundamentals of artificial intelligence and machine learning.  
 
-**Learn Python with Fantasy Football** - Covers Python, Pandas (Python's main data analysis library), SQL, web scraping, public APIs, data visualization, summary stats and modeling, all applied to fantasy football.  
+**Learn Python with Fantasy Football** – Python, Pandas, SQL, APIs, and data modeling via fantasy football projects.  
 
-**Learn Assembly Language for the Atari 2600** - Hands-on instruction in programming using assembly language, offering a practical and engaging approach to learning low-level programming concepts.  
+**Learn Assembly Language for the Atari 2600** – Practical low-level programming using assembly language.  
 
-**CS50P** - Introductory Python course covering basic programming principles.  
+**CS50P** – Introductory Python programming course.  
 
-**CS50x** - Introductory course offered by Harvard University, covering the fundamentals of computer science and programming. 
-
+**CS50x** – Harvard’s introduction to computer science and programming.  
 
 
 ## Contact Me
