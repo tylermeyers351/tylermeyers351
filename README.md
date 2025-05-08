@@ -31,6 +31,8 @@
 
 
 ## Classes Taken
+**Complete C# Unity Game Developer 3D** – Learn 3D game development with Unity and C#. Build complete projects while mastering core engine systems, physics, scripting, and game architecture fundamentals.
+
 **CS50SQL** – Introduction to databases and SQL.  
 
 **CS50R** – Statistical computing and graphics with R.  
