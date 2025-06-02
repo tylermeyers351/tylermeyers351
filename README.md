@@ -31,23 +31,23 @@ Lua game prototype with core mechanics built for expansion.
 ### **Top Languages**
 **Python** • **C** • **JavaScript** • **Lua** • **C#** • **R** • **SQL**
 
+### **Game Development**
+**Unity** • **Love2D**
+
 ### **Web Development**
 **Django** • **Flask** • **React**
 
-### **Data Science & Machine Learning**
-**Pandas** • **Scikit-learn** • **Matplotlib & Seaborn** • **TensorFlow** • **NLTK**
-
-### **Game Development**
-**Unity** • **Love2D**
 
 ---
 
 ## 📚 Classes Taken
 
-- **CS50 Series**: CS50x, CS50P (Python), CS50W (Web Dev), CS50G (Game Dev), CS50AI (AI/ML), CS50SQL, CS50R (R/Stats)  
-- **Game Development**: Complete C# Unity Game Developer 3D, CS50G, Love2D (via final project), Assembly for Atari 2600  
-- **Web & Frontend**: Intro to React, CS50W  
-- **Data & Programming**: Learn Python with Fantasy Football, CS50SQL, CS50R
+- **CS50 Series**  
+  CS50x · CS50P (Python) · CS50W (Web Development) · CS50G (Game Development) · CS50AI (AI/ML) · CS50SQL · CS50R (R/Statistics)
+
+- **Non-CS50 Courses**  
+  Complete C# Unity Game Developer 3D · Intro to React · Learn Python with Fantasy Football · Assembly Language for the Atari 2600
+
 
 ---
 
