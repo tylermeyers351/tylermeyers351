@@ -32,28 +32,13 @@
 - **Unity** | **Love 2D**
 
 
-## Classes Taken
-**Complete C# Unity Game Developer 3D** – Learn 3D game development with Unity and C#. Build complete projects while mastering core engine systems, physics, scripting, and game architecture fundamentals.
+### 📚 Classes Taken
 
-**CS50SQL** – Introduction to databases and SQL.  
+- **CS50 Series**: CS50x, CS50P (Python), CS50W (Web Dev), CS50G (Game Dev), CS50AI (AI/ML), CS50SQL, CS50R (R/Stats)
+- **Game Development**: Complete C# Unity Game Developer 3D, CS50G, Love2D (via final project), Assembly for Atari 2600
+- **Web & Frontend**: Intro to React, CS50W
+- **Data & Programming**: Learn Python with Fantasy Football (Pandas, APIs), CS50SQL, CS50R
 
-**CS50R** – Statistical computing and graphics with R.  
-
-**CS50G** – Game development fundamentals within the CS50 curriculum.  
-
-**Intro to React** – Core React concepts: components, state, props, and lifecycle through hands-on projects.  
-
-**CS50W** – Building dynamic, interactive websites with front-end/back-end and design principles.  
-
-**CS50AI** – Fundamentals of artificial intelligence and machine learning.  
-
-**Learn Python with Fantasy Football** – Python, Pandas, SQL, APIs, and data modeling via fantasy football projects.  
-
-**Learn Assembly Language for the Atari 2600** – Practical low-level programming using assembly language.  
-
-**CS50P** – Introductory Python programming course.  
-
-**CS50x** – Harvard’s introduction to computer science and programming.  
 
 
 ## Contact Me
