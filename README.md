@@ -39,13 +39,7 @@
   Statistical analysis of US boating incidents with custom functions and testing.  
 
 - **[Investigations Database](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)**  
-  Crime tracker with efficient relational schema and custom SQL queries.  
-
-- **[Learn Python with Fantasy Football](https://github.com/tylermeyers351)** *(unlinked repo)*  
-  Fantasy football-based projects exploring data pipelines, APIs, and modeling.  
-
-- **[Assembly for the Atari 2600]** *(course project)*  
-  Wrote low-level programs in Assembly targeting retro game systems.  
+  Crime tracker with efficient relational schema and custom SQL queries.
 
 
 ---
