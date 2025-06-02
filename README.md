@@ -1,7 +1,7 @@
 ## 🔧 Skills & Projects
 
 ### 💻 Web Development  
-**Skills**: Django · Flask · React · JavaScript · Firebase · HTML/CSS · Google Maps API 
+**Skills**: Django · Flask · React · JavaScript · Firebase · HTML/CSS
 
 - **[Chess Website (Django)](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)**  
   Full-stack chess site with AI opponent, user auth, forums, and leaderboards.  
