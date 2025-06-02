@@ -47,7 +47,7 @@ Lua game prototype with core mechanics built for expansion.
 - **CS50 Series**: CS50x, CS50P (Python), CS50W (Web Dev), CS50G (Game Dev), CS50AI (AI/ML), CS50SQL, CS50R (R/Stats)  
 - **Game Development**: Complete C# Unity Game Developer 3D, CS50G, Love2D (via final project), Assembly for Atari 2600  
 - **Web & Frontend**: Intro to React, CS50W  
-- **Data & Programming**: Learn Python with Fantasy Football (Pandas, APIs), CS50SQL, CS50R
+- **Data & Programming**: Learn Python with Fantasy Football, CS50SQL, CS50R
 
 ---
 
