@@ -58,3 +58,7 @@ Feel free to connect, collaborate, or follow along:
 - 📧 **Email**: [tylermeyers351@gmail.com](mailto:tylermeyers351@gmail.com)  
 - 💼 **LinkedIn**: [Tyler Meyers](https://www.linkedin.com/in/tyler-meyers-cpa/)  
 - 📺 **YouTube**: [My Channel](https://www.youtube.com/channel/UCC0GU4l4EvXBIPPjMAMcxJw)
+
+- ## Current Goals
+
+Specialize in Unity (by building games) and the MERN stack (by building full-stack web apps).
