@@ -7,10 +7,10 @@
 Full-stack chess site with AI, forums, authentication, and leaderboards.
 
 **[🗺️ Tycation (React)](https://github.com/tylermeyers351/Project-Tango-Yankee)**  
-Collaborative trip planner using Yelp and Google Maps APIs.
+Collaborative trip planner using Yelp and Google Maps APIs. Built with [Dominic Santini](https://github.com/domsantini).
 
 **[📊 NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)**  
-Full-stack NFL stats visualizer; contributed back-end work using pandas.
+Full-stack NFL stats visualizer; contributed back-end work using pandas. Built with [Dominic Santini](https://github.com/domsantini).
 
 **[💪 Workout Notes App](https://github.com/tylermeyers351/Workout-Notes-App)**  
 Firebase-backed PWA for logging workouts across devices.
