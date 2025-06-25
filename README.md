@@ -26,20 +26,6 @@ Lua game prototype with core mechanics built for expansion.
 
 ---
 
-## 🛠️ Skills
-
-### **Top Languages**
-**Python** • **C** • **JavaScript** • **Lua** • **C#** • **R** • **SQL**
-
-### **Game Development**
-**Unity** • **Love2D**
-
-### **Web Development**
-**Django** • **Flask** • **React**
-
-
----
-
 ## 📚 Classes Taken
 
 - **CS50 Series**  
@@ -48,7 +34,11 @@ Lua game prototype with core mechanics built for expansion.
 - **Non-CS50 Courses**  
   Complete C# Unity Game Developer 3D · Intro to React · Learn Python with Fantasy Football · Assembly Language for the Atari 2600
 
-
+- **Top Domains/Languages**
+  - **Game Development:** C# (with Unity) · Lua (with LÖVE2D)
+  - **Web Development:** JavaScript (with React) · Python (with Django)
+  - **Data Science & Analytics:** Python · R · SQL
+  - **Foundational/Systems Programming:** C
 ---
 
 ## 📬 Contact Me
