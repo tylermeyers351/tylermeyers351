@@ -53,9 +53,6 @@ Statistical analysis of boating accident data with custom R functions, testing, 
 
 Specialize in Unity (by building games) and the MERN stack (by building full-stack web apps).
 
----
-## 📬Email/Youtube
-
 [![Email](https://img.shields.io/badge/Email-tylermeyers351@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:tylermeyers351@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/channel/UCC0GU4l4EvXBIPPjMAMcxJw)
 
