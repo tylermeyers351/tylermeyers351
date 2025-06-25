@@ -1,19 +1,29 @@
 ## 🚀 Top Projects
 
+### 🎮 Game Development
 **[🧟 Zombie Invasion 2nite (Unity)](https://github.com/tylermeyers351/Zombies-2nite)**  
 3D wave-based survival game with spawners, combat, and progression systems built in Unity with C#.
 
+**[🧪 Zombie Invasion 2nite (Love2D)](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)**  
+Lua game prototype with core mechanics built for expansion.
+
+---
+
+### 🌐 Web Development
 **[♟️ Chess Website (Django)](https://github.com/tylermeyers351/CS50W-Final-Project-Chess-Website)**  
 Full-stack chess site with AI, forums, authentication, and leaderboards.
 
 **[🗺️ Tycation (React)](https://github.com/tylermeyers351/Project-Tango-Yankee)**  
 Collaborative trip planner using Yelp and Google Maps APIs. Built with [Dominic Santini](https://github.com/domsantini).
 
-**[📊 NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)**  
-Full-stack NFL stats visualizer; contributed back-end work using pandas. Built with [Dominic Santini](https://github.com/domsantini).
-
 **[💪 Workout Notes App](https://github.com/tylermeyers351/Workout-Notes-App)**  
 Firebase-backed PWA for logging workouts across devices.
+
+---
+
+### 📊 Data Science & Analytics
+**[📊 NFL Radar Charts](https://github.com/tylermeyers351/NFL-Radar-Charts)**  
+Full-stack NFL stats visualizer; contributed back-end work using pandas. Built with [Dominic Santini](https://github.com/domsantini).
 
 **[🔍 Investigations Database (SQL)](https://github.com/tylermeyers351/CS50SQL-Final-Investigations-Database)**  
 Crime investigation tracker built in SQLite, focusing on efficient relational design.
@@ -21,8 +31,6 @@ Crime investigation tracker built in SQLite, focusing on efficient relational de
 **[🚤 Boating Accident Stats (R)](https://github.com/tylermeyers351/CS50R-Final-Boats)**  
 Statistical analysis of boating accident data with custom R functions, testing, and visualizations.
 
-**[🧪 Zombie Invasion 2nite (Love2D)](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)**  
-Lua game prototype with core mechanics built for expansion.
 
 ---
 
