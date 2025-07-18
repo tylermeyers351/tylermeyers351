@@ -1,6 +1,11 @@
 ## 🚀 Top Projects
 
 ### 🎮 Game Development
+**[⚔️ What Remains of Me (Unity)](https://github.com/tylermeyers351/Wrath-of-Ty)**  
+Third-person hack-and-slash MVP inspired by *Elden Ring* and *God of War*, focusing on combat, level design, and narrative experimentation.  
+🎮 [Play on Itch.io](https://tminteractive.itch.io/what-remains-of-me)
+
+
 **[🧟 Zombie Invasion 2nite (Unity)](https://github.com/tylermeyers351/Zombies-2nite)**  
 3D wave-based survival game with spawners, combat, and progression systems built in Unity with C#.
 
