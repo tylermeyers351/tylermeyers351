@@ -3,12 +3,12 @@
 ### 🎮 Game Development
 **[⚔️ What Remains of Me (Unity)](https://github.com/tylermeyers351/Wrath-of-Ty)**  
 Third-person hack-and-slash MVP focusing on combat, level design, and narrative experimentation.  
-🎮 [Play on Itch.io](https://tminteractive.itch.io/what-remains-of-me)
+[Download on Itch.io](https://tminteractive.itch.io/what-remains-of-me)
 
 
 **[🧟 Zombie Invasion 2nite (Unity)](https://github.com/tylermeyers351/Zombies-2nite)**  
 3D wave-based survival game with spawners, combat, and progression systems built in Unity with C#.  
-🎮 [Play on Itch.io](https://tminteractive.itch.io/zombie-invasion-2nite)
+[Download or play on Itch.io](https://tminteractive.itch.io/zombie-invasion-2nite)
 
 
 **[🧪 Zombie Invasion 2nite (Love2D)](https://github.com/tylermeyers351/CS50-Final-Project-Love2d)**  
