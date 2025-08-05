@@ -2,7 +2,7 @@
 
 ### 🎮 Game Development
 **[⚔️ What Remains of Me (Unity)](https://github.com/tylermeyers351/Wrath-of-Ty)**  
-Third-person hack-and-slash MVP focusing on combat, level design, and narrative experimentation.  
+Third-person hack-and-slash MVP focusing on combat, level design, and narrative experimentation.   
 [Download on Itch.io](https://tminteractive.itch.io/what-remains-of-me)
 
 
