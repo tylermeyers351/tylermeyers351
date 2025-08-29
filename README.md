@@ -47,7 +47,7 @@ Statistical analysis of boating accident data with custom R functions, testing, 
   CS50x · CS50P (Python) · CS50W (Web Development) · CS50G (Game Development) · CS50AI (AI/ML) · CS50SQL · CS50R (R/Statistics)
 
 - **Non-CS50 Courses**  
-  Unity Shader Graph: Create Procedural Shaders & Dynamic FX · Unity 3rd Person Combat & Traversal · Complete C# Unity Game Developer 3D · Intro to React · Learn Python with Fantasy Football · Assembly Language for the Atari 2600
+  Math For Video Games: Build Better Games Faster With Advanced Game Math · Unity Shader Graph: Create Procedural Shaders & Dynamic FX · Unity 3rd Person Combat & Traversal · Complete C# Unity Game Developer 3D · Intro to React · Learn Python with Fantasy Football · Assembly Language for the Atari 2600
 
 - **Top Domains/Languages**
   - **Game Development:** C# (with Unity) · Lua (with LÖVE2D)
